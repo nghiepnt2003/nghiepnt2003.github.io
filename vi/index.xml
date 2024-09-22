@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS Basic Labs: Tạo và Cấu Hình AWS VPC với Public và Private Subnets, Internet Gateway, Route Tables, và Security Groups on LÀM VIỆC VỚI AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
+    <link>http://nghiepnt2003.github.io/vi/</link>
+    <description>Recent content in AWS Basic Labs: Tạo và Cấu Hình AWS VPC với Public và Private Subnets, Internet Gateway, Route Tables, và Security Groups on LÀM VIỆC VỚI AMAZON SYSTEM MANAGER - SESSION MANAGER</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <atom:link href="http://nghiepnt2003.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
